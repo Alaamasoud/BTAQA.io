@@ -1,6 +1,11 @@
 # BTAQA — Digital Loyalty Cards
 
-Native Apple Wallet and Google Wallet loyalty stamp cards 
+<img width="1200" height="630" alt="BTAQA Digital Loyalty Cards" src="https://github.com/user-attachments/assets/90cbbef7-675a-4b78-b007-23bcc99d0fb0" />
+
+Native Apple Wallet and Google Wallet loyalty stamp cards
+
+
+ 
 for small merchants in the GCC and Europe.
 
 🔗 [btaqa.io](https://btaqa.io)
